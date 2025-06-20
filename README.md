@@ -18,9 +18,6 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/chaitanya_1187" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/chaitanya-pyla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -32,6 +29,9 @@
 </a>
 <a href="https://www.codechef.com/users/chaitu_pyla_18" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+   <a href="https://twitter.com/chaitanya_1187" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
