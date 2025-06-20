@@ -24,6 +24,15 @@
   <a href="https://linkedin.com/in/chaitanya-pyla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/user3700ui/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/profile/p_chaitanyapyla" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/chaitu_pyla_18" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
